@@ -41,7 +41,7 @@ body {
     transition: .3s;
 }
 
-.sticky {
+.header.sticky {
     background: var(--bg-color);
 }
 
